@@ -1,15 +1,13 @@
 # Olá! Eu sou o Samuel Matos!
 
-## Mais sobre mim
-
-<img align="right" width="250" height="150" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<!--- <img align="right" width="250" height="150" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" /> --->
 
 ```Javascript
 class Samuel {
  public name = "Samuel Matos";
- public stack = "Full mobile & Web";
+ public stacks = ["Full Web", "Mobile"];
  public languages = ["JavaScript", "PHP", "TypeScript", "SQL"];
- public frameWorks = ["React Native", "Slim PHP", "React" "Adonis Js", "Laravel"];
+ public frameWorks = ["React Native", "Laravel", "React", "Next.js", "Node"];
 }
 ```
 
@@ -20,6 +18,7 @@ class Samuel {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 ## Status
 
 <a href="https://github.com/samuhmatos">
@@ -30,7 +29,7 @@ class Samuel {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuhmatos&show_icons=true&theme=dracula&line_height=27" alt="samuel" github stats"/>
 </a>
 
-[website]: https://blog.samuelmatos.tech
+<!--- [website]: https://blog.samuelmatos.tech --->
 [instagram]: https://www.instagram.com/samuh.matos/
 [linkedin]: https://www.linkedin.com/in/o-samuelmatos/
 
@@ -38,6 +37,6 @@ class Samuel {
 
 ## Rede sociais
 
-🏡 [Website][website] **|**
+<!--🏡 [Website][website] **|** -->
 📷 [Instagram][instagram] **|**
 👔 [LinkedIn][linkedin]
