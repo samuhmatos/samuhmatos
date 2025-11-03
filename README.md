@@ -38,5 +38,4 @@ class Samuel {
 ## Rede sociais
 
 <!--🏡 [Website][website] **|** -->
-📷 [Instagram][instagram] **|**
 👔 [LinkedIn][linkedin]
