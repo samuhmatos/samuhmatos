@@ -5,9 +5,9 @@
 ```Javascript
 class Samuel {
  public name = "Samuel Matos";
- public stacks = ["Full Web", "Mobile"];
- public languages = ["JavaScript", "PHP", "TypeScript", "SQL"];
- public frameWorks = ["React Native", "Laravel", "React", "Next.js", "Node"];
+ public stacks = ["Back end", "Front end", "Mobile"];
+ public languages = ["TypeScript", "JavaScript", "PHP", "SQL"];
+ public frameWorks = ["Node", "Nest.js", "Next.js", "React", "React Native", "Laravel"];
 }
 ```
 
