@@ -6,8 +6,9 @@
 class Samuel {
  public name = "Samuel Matos";
  public stacks = ["Back end", "Front end", "Mobile"];
- public languages = ["TypeScript", "JavaScript", "PHP", "SQL"];
+ public languages = ["TypeScript", "JavaScript", "PHP", "SQL", "Python"];
  public frameWorks = ["Node", "Nest.js", "Next.js", "React", "React Native", "Laravel"];
+ public DevOps = ["Rabbitmq", "SQS", "BullMQ", "Kubernets"]
 }
 ```
 
